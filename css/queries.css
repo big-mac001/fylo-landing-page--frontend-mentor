@@ -1,0 +1,94 @@
+@media (max-width: 24em) {
+  html {
+    font-size: 50%;
+  }
+
+  .grid--2-cols,
+  .grid--4-cols {
+    grid-template-columns: 1fr;
+  }
+
+  .header {
+    padding: 0 2.4rem;
+  }
+
+  .logo {
+    height: 3.2rem;
+  }
+
+  .main-nav-list {
+    gap: 2.4rem;
+  }
+
+  .hero-img-box:nth-child(2),
+  .features-img-box:nth-child(2) {
+    grid-row: 1;
+  }
+
+  .hero-text-box {
+    padding: 0 1.2rem;
+  }
+
+  .primary-heading {
+    font-size: 3rem;
+    text-align: center;
+  }
+
+  .features-text-box .primary-heading {
+    font-size: 2rem;
+  }
+
+  .secondary-heading {
+    font-size: 2rem;
+  }
+
+  .hero-description {
+    text-align: center;
+    font-size: 1.8rem;
+  }
+
+  .hero-form input {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .features-text-box {
+    padding: 0;
+  }
+
+  .features-description {
+    padding: 0 1rem;
+  }
+
+  .how-it-works {
+    text-align: center;
+    margin-bottom: 4.8rem;
+  }
+
+  .features-testimonial {
+    margin: 0 auto;
+    width: 90%;
+    padding: 2rem;
+  }
+
+  .cta-section {
+    text-align: center;
+    padding: 8rem 2rem;
+  }
+
+  .cta-form {
+    padding: 0 3.2rem;
+  }
+
+  footer {
+    padding: 8rem 2.4rem;
+  }
+
+  .social-col {
+    justify-self: center;
+  }
+}
