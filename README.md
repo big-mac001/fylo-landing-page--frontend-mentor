@@ -25,7 +25,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-fylos-landing-page-using-css-grid-and-flexbox-_b30rprwNu))
 - Live Site URL: [Add live site URL here](https://fylo-macaulay.netlify.app/)
 
 ## My Process
